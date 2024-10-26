@@ -41,7 +41,7 @@ jobs:
           HOST: localhost
           PORT: 3000
           PGHOST: localhost
-          PGPORT: 5433
+          PGPORT: 5432
           PGUSER: developer
           PGPASSWORD: password
           PGDATABASE: forumapi_test
